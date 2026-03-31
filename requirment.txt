@@ -1,0 +1,9 @@
+ipykernel
+pandas 
+matplotlib
+seaborn
+scikit-learn
+Imbalanced-learn
+streamlit
+joblib
+#pip install -r re.txt
